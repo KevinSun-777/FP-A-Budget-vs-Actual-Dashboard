@@ -8,7 +8,7 @@ The dashboard analyzes financial performance against budget, identifies departme
 
 ## Data Source
 
-This project uses a simulated dataset created for portfolio and educational purposes.
+This project uses a simulated dataset created for portfolio purposes.
 
 The dataset was designed to resemble the monthly reporting package of a mid-sized SaaS company and includes:
 
