@@ -54,6 +54,16 @@ The objective of this project was to:
 
 ![FP&A Dashboard Portfolio](Dashboard.png)
 
+## FP&A Skills Demonstrated
+
+- Budgeting & Forecasting
+- Variance Analysis
+- Driver-Based Planning
+- Headcount Planning
+- SaaS KPI Reporting
+- Executive Dashboard Development
+- Financial Storytelling
+- Business Partnering
 
 ## Conclusion
 
